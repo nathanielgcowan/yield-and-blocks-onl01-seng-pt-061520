@@ -25,4 +25,4 @@ end
 
   array
 else
-  puts "Hey"
+  puts "Hey! No block is given"
