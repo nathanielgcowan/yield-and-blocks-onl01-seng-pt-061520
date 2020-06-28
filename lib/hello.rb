@@ -15,4 +15,4 @@ hello_t(["Tim","Tom","Jim"]) do |name|
   end
 end
 
-d
+def hello_t(array)
