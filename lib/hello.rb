@@ -16,3 +16,5 @@ hello_t(["Tim","Tom","Jim"]) do |name|
 end
 
 def hello_t(array)
+  if block.block_given?
+    i=0
