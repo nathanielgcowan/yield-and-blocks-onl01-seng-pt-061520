@@ -22,3 +22,7 @@ def hello_t(array)
   yield(arry[i])
   i = i + 1 
 end
+
+  array
+else
+  
